@@ -4,7 +4,8 @@
   "description": "list of visited countries",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "light-server -s ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aslushnikov/been/issues"
   },
-  "homepage": "https://github.com/aslushnikov/been#readme"
+  "homepage": "https://github.com/aslushnikov/been#readme",
+  "dependencies": {
+    "light-server": "^2.9.1"
+  }
 }
