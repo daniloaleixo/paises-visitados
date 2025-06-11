@@ -19,6 +19,20 @@ class Country {
     this.sidebarElement.textContent = this.name;
     this.sidebarElement[Country.Symbol] = this;
   }
+
+  setVisited(visited) {
+    this.visited = visited;
+    this.mapElement.classList.toggle('visited', visited);
+    this.sidebarElement.classList.toggle('visited', visited);
+    // Update the header title.
+    const totalVisited = document.querySelectorAll('.countrylist .entry.visited').length;
+    document.querySelector('header h3').textContent = `Visited: ${totalVisited}/${document.querySelectorAll('.countrylist .entry').length}`;
+    // Update visited for the region
+    const visitedCountries = this.region.countries.filter(country => country.visited).length;
+    const regionElement = this.sidebarElement.closest('.region');
+    const regionTitle = regionElement.querySelector('.region-title span');
+    regionTitle.textContent = `${visitedCountries}/${this.region.countries.length}`;
+  }
 }
 
 Country.Symbol = Symbol('country');
@@ -58,6 +72,7 @@ class Map {
     const parsedDocument = domParser.parseFromString(svgText, 'text/html');
     const foreignSVG = parsedDocument.querySelector('svg');
     const svg = document.importNode(foreignSVG, true);
+    console.log(countriesText)
     return new Map(svg, countriesText);
   }
 
@@ -110,6 +125,7 @@ class Map {
         region.countries.push(country);
       }
     }
+    console.log(this.regions)
     for (const region of this.regions)
       region.countries.sort((a, b) => a.name.localeCompare(b.name));
     this.element = svg;
@@ -159,7 +175,7 @@ async function onMapLoaded([map]) {
   // Reveal country when clicking
   map.element.addEventListener('click', revealCountry, false);
   map.element.addEventListener('tap', revealCountry, false);
-  countrylist.addEventListener('click', revealCountry, false);
+  countrylist.addEventListener('click', setVisited, false);
   countrylist.addEventListener('tap', revealCountry, false);
 
   function hoverCountry(event) {
@@ -182,6 +198,25 @@ async function onMapLoaded([map]) {
     setRevealedCountry(country);
     event.stopPropagation();
     event.preventDefault();
+  }
+
+  function setVisited(event) {
+    let target = event.target;
+    let country = null;
+    while (target && !(country = target[Country.Symbol]))
+      target = target.parentElement;
+    if (!country)
+      return;
+
+    // Toggle visited state.
+    country.setVisited(!country.visited);
+
+    // Update the sidebar entry.
+    if (revealedCountry === country) {
+      setRevealedCountry(country);
+    } else if (hoveredCountry === country) {
+      setHoveredCountry(country);
+    }
   }
 
   let revealedCountry = null;
