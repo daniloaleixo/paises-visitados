@@ -26,7 +26,7 @@ class Country {
     this.sidebarElement.classList.toggle('visited', visited);
     // Update the header title.
     const totalVisited = document.querySelectorAll('.countrylist .entry.visited').length;
-    document.querySelector('header h3').textContent = `Visited: ${totalVisited}/${document.querySelectorAll('.countrylist .entry').length}`;
+    document.querySelector('header h3').textContent = `Visitados: ${totalVisited}/${document.querySelectorAll('.countrylist .entry').length}`;
     // Update visited for the region
     const visitedCountries = this.region.countries.filter(country => country.visited).length;
     const regionElement = this.sidebarElement.closest('.region');
@@ -72,7 +72,6 @@ class Map {
     const parsedDocument = domParser.parseFromString(svgText, 'text/html');
     const foreignSVG = parsedDocument.querySelector('svg');
     const svg = document.importNode(foreignSVG, true);
-    console.log(countriesText)
     return new Map(svg, countriesText);
   }
 
@@ -125,7 +124,6 @@ class Map {
         region.countries.push(country);
       }
     }
-    console.log(this.regions)
     for (const region of this.regions)
       region.countries.sort((a, b) => a.name.localeCompare(b.name));
     this.element = svg;
@@ -164,7 +162,7 @@ async function onMapLoaded([map]) {
   // Update title
   const countries = map.regions.reduce((all, region) => [...all, ...region.countries], []);
   const totalVisited = countries.filter(c => c.visited).length;
-  $('header h3').textContent = `Visited: ${totalVisited}/${countries.length}`;
+  $('header h3').textContent = `Visitados: ${totalVisited}/${countries.length}`;
 
   // Hover countries when hovering over
   countrylist.addEventListener('mousemove', hoverCountry, false);

@@ -1,279 +1,279 @@
-# Europe
+# Europa
 
 - [ ] AD Andorra
-- [ ] AL Albania
-- [ ] AT Austria
-- [ ] AX Aland Islands
-- [ ] BA Bosnia and Herzegovina
-- [ ] BE Belgium
-- [ ] BG Bulgaria
-- [ ] BY Belarus
-- [ ] CH Switzerland
-- [ ] CY Cyprus
-- [ ] CZ Czech Republic
-- [ ] DE Germany
-- [ ] DK Denmark
-- [ ] EE Estonia
-- [ ] ES Spain
-- [ ] FI Finland
-- [ ] FO Faroe Islands
-- [ ] FR France
-- [ ] GB United Kingdom
+- [ ] AL Albânia
+- [ ] AT Áustria
+- [ ] AX Ilhas Aland
+- [ ] BA Bósnia e Herzegovina
+- [ ] BE Bélgica
+- [ ] BG Bulgária
+- [ ] BY Bielorrússia
+- [ ] CH Suíça
+- [ ] CY Chipre
+- [ ] CZ República Tcheca
+- [ ] DE Alemanha
+- [ ] DK Dinamarca
+- [ ] EE Estônia
+- [ ] ES Espanha
+- [ ] FI Finlândia
+- [ ] FO Ilhas Faroé
+- [ ] FR França
+- [ ] GB Reino Unido
 - [ ] GG Guernsey
 - [ ] GI Gibraltar
-- [ ] GR Greece
-- [ ] HR Croatia
-- [ ] HU Hungary
-- [ ] IE Ireland
-- [ ] IM Isle of Man
-- [ ] IS Iceland
-- [ ] IT Italy
+- [ ] GR Grécia
+- [ ] HR Croácia
+- [ ] HU Hungria
+- [ ] IE Irlanda
+- [ ] IM Ilha de Man
+- [ ] IS Islândia
+- [ ] IT Itália
 - [ ] JE Jersey
 - [ ] LI Liechtenstein
-- [ ] LT Lithuania
-- [ ] LU Luxembourg
-- [ ] LV Latvia
-- [ ] MC Monaco
-- [ ] MD Moldova
+- [ ] LT Lituânia
+- [ ] LU Luxemburgo
+- [ ] LV Letônia
+- [ ] MC Mônaco
+- [ ] MD Moldávia
 - [ ] ME Montenegro
-- [ ] MK Macedonia
+- [ ] MK Macedônia do Norte
 - [ ] MT Malta
-- [ ] NL Netherlands
-- [ ] NO Norway
-- [ ] PL Poland
+- [ ] NL Países Baixos
+- [ ] NO Noruega
+- [ ] PL Polônia
 - [ ] PT Portugal
-- [ ] RO Romania
-- [ ] RS Serbia
-- [ ] RU Russia
-- [ ] SE Sweden
-- [ ] SI Slovenia
-- [ ] SJ Svalbard and Jan Mayen
-- [ ] SK Slovakia
+- [ ] RO Romênia
+- [ ] RS Sérvia
+- [ ] RU Rússia
+- [ ] SE Suécia
+- [ ] SI Eslovênia
+- [ ] SJ Svalbard e Jan Mayen
+- [ ] SK Eslováquia
 - [ ] SM San Marino
-- [ ] UA Ukraine
-- [ ] VA Vatican City
+- [ ] UA Ucrânia
+- [ ] VA Cidade do Vaticano
 - [ ] XK Kosovo
 
-# Asia
+# Ásia
 
-- [ ] AE United Arab Emirates
-- [ ] AF Afghanistan
-- [ ] AM Armenia
-- [ ] AZ Azerbaijan
+- [ ] AE Emirados Árabes Unidos
+- [ ] AF Afeganistão
+- [ ] AM Armênia
+- [ ] AZ Azerbaijão
 - [ ] BD Bangladesh
-- [ ] BH Bahrain
-- [ ] BN Brunei Darussalam
-- [ ] BT Bhutan
+- [ ] BH Bahrein
+- [ ] BN Brunei
+- [ ] BT Butão
 - [ ] CN China
-- [ ] GE Georgia
+- [ ] GE Geórgia
 - [ ] HK Hong Kong
-- [ ] ID Indonesia
+- [ ] ID Indonésia
 - [ ] IL Israel
-- [ ] IN India
-- [ ] IQ Iraq
-- [ ] IR Iran
-- [ ] JO Jordan
-- [ ] JP Japan
-- [ ] KG Kyrgyzstan
-- [ ] KH Cambodia
-- [ ] KP North Korea
-- [ ] KR South Korea
+- [ ] IN Índia
+- [ ] IQ Iraque
+- [ ] IR Irã
+- [ ] JO Jordânia
+- [ ] JP Japão
+- [ ] KG Quirguistão
+- [ ] KH Camboja
+- [ ] KP Coreia do Norte
+- [ ] KR Coreia do Sul
 - [ ] KW Kuwait
-- [ ] KZ Kazakhstan
-- [ ] LA Lao People's Democratic Republic
-- [ ] LB Lebanon
+- [ ] KZ Cazaquistão
+- [ ] LA Laos
+- [ ] LB Líbano
 - [ ] LK Sri Lanka
-- [ ] MM Myanmar
-- [ ] MN Mongolia
+- [ ] MM Mianmar
+- [ ] MN Mongólia
 - [ ] MO Macau
-- [ ] MV Maldives
-- [ ] MY Malaysia
+- [ ] MV Maldivas
+- [ ] MY Malásia
 - [ ] NP Nepal
-- [ ] OM Oman
-- [ ] PH Philippines
-- [ ] PK Pakistan
-- [ ] PS Palestinian Territories
-- [ ] QA Qatar
-- [ ] SA Saudi Arabia
-- [ ] SG Singapore
-- [ ] SY Syria
-- [ ] TH Thailand
-- [ ] TJ Tajikistan
+- [ ] OM Omã
+- [ ] PH Filipinas
+- [ ] PK Paquistão
+- [ ] PS Territórios Palestinos
+- [ ] QA Catar
+- [ ] SA Arábia Saudita
+- [ ] SG Singapura
+- [ ] SY Síria
+- [ ] TH Tailândia
+- [ ] TJ Tadjiquistão
 - [ ] TL Timor-Leste
-- [ ] TM Turkmenistan
-- [ ] TR Turkey
+- [ ] TM Turcomenistão
+- [ ] TR Turquia
 - [ ] TW Taiwan
-- [ ] UZ Uzbekistan
-- [ ] VN Vietnam
-- [ ] YE Yemen
+- [ ] UZ Uzbequistão
+- [ ] VN Vietnã
+- [ ] YE Iêmen
 
-# Africa
+# África
 
 - [ ] AO Angola
 - [ ] BF Burkina Faso
 - [ ] BI Burundi
 - [ ] BJ Benin
-- [ ] BW Botswana
-- [ ] CD Democratic Republic of Congo
-- [ ] CF Central African Republic
-- [ ] CG Republic of Congo
-- [ ] CI Côte d'Ivoire
-- [ ] CM Cameroon
-- [ ] CV Cape Verde
-- [ ] DJ Djibouti
-- [ ] DZ Algeria
-- [ ] EG Egypt
-- [ ] EH Western Sahara
-- [ ] ER Eritrea
-- [ ] ET Ethiopia
-- [ ] GA Gabon
-- [ ] GH Ghana
-- [ ] GM Gambia
-- [ ] GN Guinea
-- [ ] GO Glorioso Islands
-- [ ] GQ Equatorial Guinea
-- [ ] GW Guinea-Bissau
-- [ ] KE Kenya
-- [ ] KM Comoros
-- [ ] LR Liberia
-- [ ] LS Lesotho
-- [ ] LY Libya
-- [ ] MA Morocco
+- [ ] BW Botsuana
+- [ ] CD República Democrática do Congo
+- [ ] CF República Centro-Africana
+- [ ] CG República do Congo
+- [ ] CI Costa do Marfim
+- [ ] CM Camarões
+- [ ] CV Cabo Verde
+- [ ] DJ Djibuti
+- [ ] DZ Argélia
+- [ ] EG Egito
+- [ ] EH Saara Ocidental
+- [ ] ER Eritreia
+- [ ] ET Etiópia
+- [ ] GA Gabão
+- [ ] GH Gana
+- [ ] GM Gâmbia
+- [ ] GN Guiné
+- [ ] GO Ilhas Gloriosas
+- [ ] GQ Guiné Equatorial
+- [ ] GW Guiné-Bissau
+- [ ] KE Quênia
+- [ ] KM Comores
+- [ ] LR Libéria
+- [ ] LS Lesoto
+- [ ] LY Líbia
+- [ ] MA Marrocos
 - [ ] MG Madagascar
 - [ ] ML Mali
-- [ ] MR Mauritania
-- [ ] MU Mauritius
+- [ ] MR Mauritânia
+- [ ] MU Maurício
 - [ ] MW Malawi
-- [ ] MZ Mozambique
-- [ ] NA Namibia
-- [ ] NE Niger
-- [ ] NG Nigeria
-- [ ] RE Reunion
-- [ ] RW Rwanda
-- [ ] SC Seychelles
-- [ ] SD Sudan
-- [ ] SL Sierra Leone
+- [ ] MZ Moçambique
+- [ ] NA Namíbia
+- [ ] NE Níger
+- [ ] NG Nigéria
+- [ ] RE Reunião
+- [ ] RW Ruanda
+- [ ] SC Seicheles
+- [ ] SD Sudão
+- [ ] SL Serra Leoa
 - [ ] SN Senegal
-- [ ] SO Somalia
-- [ ] SS South Sudan
-- [ ] ST Sao Tome and Principe
-- [ ] SZ Swaziland
-- [ ] TD Chad
+- [ ] SO Somália
+- [ ] SS Sudão do Sul
+- [ ] ST São Tomé e Príncipe
+- [ ] SZ Essuatíni
+- [ ] TD Chade
 - [ ] TG Togo
-- [ ] TN Tunisia
-- [ ] TZ Tanzania
+- [ ] TN Tunísia
+- [ ] TZ Tanzânia
 - [ ] UG Uganda
 - [ ] YT Mayotte
-- [ ] ZA South Africa
-- [ ] ZM Zambia
-- [ ] ZW Zimbabwe
+- [ ] ZA África do Sul
+- [ ] ZM Zâmbia
+- [ ] ZW Zimbábue
 
 # Oceania
 
-- [ ] AS American Samoa
-- [ ] AU Australia
-- [ ] CC Cocos Keeling Islands
-- [ ] CK Cook Islands
-- [ ] CX Christmas Island
+- [ ] AS Samoa Americana
+- [ ] AU Austrália
+- [ ] CC Ilhas Cocos
+- [ ] CK Ilhas Cook
+- [ ] CX Ilha Christmas
 - [ ] FJ Fiji
-- [ ] FM Federated States of Micronesia
+- [ ] FM Estados Federados da Micronésia
 - [ ] GU Guam
-- [ ] HM Heard Island and McDonald Islands
+- [ ] HM Ilhas Heard e McDonald
 - [ ] KI Kiribati
-- [ ] MH Marshall Islands
-- [ ] MP Northern Mariana Islands
-- [ ] NC New Caledonia
-- [ ] NF Norfolk Island
+- [ ] MH Ilhas Marshall
+- [ ] MP Ilhas Marianas do Norte
+- [ ] NC Nova Caledônia
+- [ ] NF Ilha Norfolk
 - [ ] NR Nauru
 - [ ] NU Niue
-- [ ] NZ New Zealand
-- [ ] PF French Polynesia
-- [ ] PG Papua New Guinea
-- [ ] PN Pitcairn Islands
+- [ ] NZ Nova Zelândia
+- [ ] PF Polinésia Francesa
+- [ ] PG Papua-Nova Guiné
+- [ ] PN Ilhas Pitcairn
 - [ ] PW Palau
-- [ ] SB Solomon Islands
+- [ ] SB Ilhas Salomão
 - [ ] TK Tokelau
 - [ ] TO Tonga
 - [ ] TV Tuvalu
-- [ ] UM-DQ Jarvis Island
-- [ ] UM-FQ Baker Island
-- [ ] UM-HQ Howland Island
-- [ ] UM-JQ Johnston Atoll
-- [ ] UM-MQ Midway Islands
-- [ ] UM-WQ Wake Island
+- [ ] UM-DQ Ilha Jarvis
+- [ ] UM-FQ Ilha Baker
+- [ ] UM-HQ Ilha Howland
+- [ ] UM-JQ Atol Johnston
+- [ ] UM-MQ Ilhas Midway
+- [ ] UM-WQ Ilha Wake
 - [ ] VU Vanuatu
-- [ ] WF Wallis and Futuna
+- [ ] WF Wallis e Futuna
 - [ ] WS Samoa
 
-# North America
+# América do Norte
 
-- [ ] BM Bermuda
-- [ ] CA Canada
-- [ ] GL Greenland
-- [ ] PM Saint Pierre and Miquelon
-- [ ] US United States
+- [ ] BM Bermudas
+- [ ] CA Canadá
+- [ ] GL Groenlândia
+- [ ] PM Saint Pierre e Miquelon
+- [ ] US Estados Unidos
 
-# Central America
+# América Central
 
 - [ ] BZ Belize
 - [ ] CR Costa Rica
 - [ ] CU Cuba
-- [ ] DO Dominican Republic
+- [ ] DO República Dominicana
 - [ ] GT Guatemala
 - [ ] HN Honduras
 - [ ] HT Haiti
 - [ ] JM Jamaica
-- [ ] KY Cayman Islands
-- [ ] MX Mexico
-- [ ] NI Nicaragua
-- [ ] PA Panama
-- [ ] PR Puerto Rico
+- [ ] KY Ilhas Cayman
+- [ ] MX México
+- [ ] NI Nicarágua
+- [ ] PA Panamá
+- [ ] PR Porto Rico
 - [ ] SV El Salvador
-- [ ] TC Turks and Caicos Islands
-- [ ] TT Trinidad and Tobago
-- [ ] VI US Virgin Islands
+- [ ] TC Ilhas Turcas e Caicos
+- [ ] TT Trinidad e Tobago
+- [ ] VI Ilhas Virgens Americanas
 
-# South America
+# América do Sul
 
 - [ ] AR Argentina
-- [ ] BO Bolivia
-- [ ] BR Brazil
+- [ ] BO Bolívia
+- [ ] BR Brasil
 - [ ] CL Chile
-- [ ] CO Colombia
-- [ ] EC Ecuador
-- [ ] FK Falkland Islands
-- [ ] GF French Guiana
-- [ ] GS South Georgia and South Sandwich Islands
-- [ ] GY Guyana
+- [ ] CO Colômbia
+- [ ] EC Equador
+- [ ] FK Ilhas Malvinas
+- [ ] GF Guiana Francesa
+- [ ] GS Geórgia do Sul e Ilhas Sandwich do Sul
+- [ ] GY Guiana
 - [ ] PE Peru
-- [ ] PY Paraguay
+- [ ] PY Paraguai
 - [ ] SR Suriname
-- [ ] UY Uruguay
+- [ ] UY Uruguai
 - [ ] VE Venezuela
 
-# Other
+# Outros
 
-- [ ] AG Antigua and Barbuda
+- [ ] AG Antígua e Barbuda
 - [ ] AI Anguilla
 - [ ] AW Aruba
 - [ ] BB Barbados
-- [ ] BL Saint Barthelemy
-- [ ] BQ Bonaire, Saint Eustachius and Saba
+- [ ] BL São Bartolomeu
+- [ ] BQ Bonaire, Santo Eustáquio e Saba
 - [ ] BS Bahamas
-- [ ] BV Bouvet Island
+- [ ] BV Ilha Bouvet
 - [ ] CW Curaçao
 - [ ] DM Dominica
-- [ ] GD Grenada
-- [ ] GP Guadeloupe
-- [ ] IO British Indian Ocean Territory
-- [ ] JU Juan De Nova Island
-- [ ] KN Saint Kitts and Nevis
-- [ ] LC Saint Lucia
-- [ ] MF Saint Martin
-- [ ] MQ Martinique
+- [ ] GD Granada
+- [ ] GP Guadalupe
+- [ ] IO Território Britânico do Oceano Índico
+- [ ] JU Ilha Juan de Nova
+- [ ] KN São Cristóvão e Nevis
+- [ ] LC Santa Lúcia
+- [ ] MF São Martinho
+- [ ] MQ Martinica
 - [ ] MS Montserrat
-- [ ] SH Saint Helena
-- [ ] SX Saint Martin
-- [ ] TF French Southern and Antarctic Lands
-- [ ] VC Saint Vincent and the Grenadines
-- [ ] VG British Virgin Islands
+- [ ] SH Santa Helena
+- [ ] SX São Martinho
+- [ ] TF Terras Austrais e Antárticas Francesas
+- [ ] VC São Vicente e Granadinas
+- [ ] VG Ilhas Virgens Britânicas
